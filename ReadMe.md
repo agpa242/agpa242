@@ -18,9 +18,17 @@ As a dedicated Data Science graduate, I'm fueled by an unyielding pursuit of dat
 
 ```python
 languages = ["Python", "R", "MATLAB", "SAS", "C", "C++", "SQL", "JavaScript", "pyspark"]
+
+### Machine Learning
 machine_learning = ["Scikit-Learn", "Numpy", "Pandas", "Matplotlib", "TensorFlow", "PyTorch", "Seaborn", "Keras", "SciPy", "OpenCV"]
+
+### Databases
 databases = ["MySQL", "MongoDB", "Oracle", "Cassandra", "PostgreSQL", "SQLlite"]
+
+### Web Technologies
 web_technologies = ["HTML5", "CSS", "PHP"]
+
+### Tools
 tools = ["Git", "Eclipse", "PyCharm", "Visual Studio", "Bootstrap", "Tableau", "Hadoop", "PowerBI"]
 
 
