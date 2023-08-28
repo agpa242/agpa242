@@ -12,42 +12,17 @@ As a dedicated Data Science graduate, I'm fueled by an unyielding pursuit of dat
 
 ## 💼 Technical Expertise
 
-## 💼 Technical Expertise
-
-### Programming Languages
-
 ```python
 languages = ["Python", "R", "MATLAB", "SAS", "C", "C++", "SQL", "JavaScript", "pyspark"]
 
-### Machine Learning
 machine_learning = ["Scikit-Learn", "Numpy", "Pandas", "Matplotlib", "TensorFlow", "PyTorch", "Seaborn", "Keras", "SciPy", "OpenCV"]
 
-### Databases
 databases = ["MySQL", "MongoDB", "Oracle", "Cassandra", "PostgreSQL", "SQLlite"]
 
-### Web Technologies
 web_technologies = ["HTML5", "CSS", "PHP"]
 
-### Tools
 tools = ["Git", "Eclipse", "PyCharm", "Visual Studio", "Bootstrap", "Tableau", "Hadoop", "PowerBI"]
 ```
-
-
-### Programming Languages
-Python, R, MATLAB, SAS, C, C++, SQL, JavaScript, pyspark
-
-### Machine Learning
-Scikit-Learn, Numpy, Pandas, Matplotlib, TensorFlow, PyTorch, Seaborn, Keras, SciPy, OpenCV
-
-### Databases
-MySQL, MongoDB, Oracle, Cassandra, PostgreSQL, SQLlite
-
-### Web Technologies
-HTML5, CSS, PHP
-
-### Tools
-Git, Eclipse, PyCharm, Visual Studio, Bootstrap, Tableau, Hadoop, PowerBI
-
 
 ## 🔍 Data Science Passion
 
